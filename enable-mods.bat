@@ -1,5 +1,5 @@
 rem Back up current files
-copy Fallout4Prefs.ini Fallout4Prefs.bak
+copy /-y Fallout4Prefs.ini Fallout4Prefs.bak
 
 rem Modify Fallout4Prefs.ini
 echo bEnableFileSelection=1 >>Fallout4Prefs.ini
