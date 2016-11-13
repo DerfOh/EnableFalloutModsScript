@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 # EnableFalloutModsScript
 Small script for making a one-click utility that enables nexus mods in Fallout 4
 
